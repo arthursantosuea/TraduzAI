@@ -1,0 +1,22 @@
+export const popularLanguages = [
+    'Mandarim',
+    'Espanhol',
+    'Inglês',
+    'Hindi',
+    'Árabe',
+    'Português',
+    'Bengali',
+    'Russo',
+    'Japonês',
+    'Punjabi',
+    'Alemão',
+    'Javanês',
+    'Wu',
+    'Malaio',
+    'Telugu',
+    'Vietnamita',
+    'Coreano',
+    'Francês',
+    'Marathi',
+    'Tâmil'
+  ];
